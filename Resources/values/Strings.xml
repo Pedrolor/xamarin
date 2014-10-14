@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="btnLlamaDatos">Capturar datos</string>
+	<string name="app_name">ComunicacionEntreFormularios</string>
+</resources>
